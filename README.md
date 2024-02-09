@@ -30,3 +30,6 @@ The project employs MySQL as the database management system for storing user dat
 Overall, this GitHub project offers a comprehensive solution for developing a user-centric web application, leveraging React for the frontend, Node.js for backend API development, and MySQL for secure data storage and management. It provides a solid foundation for building scalable and feature-rich applications with modern web technologies.
 
 ![Screenshot 2024-02-10 013836](https://github.com/Prakhar574/Simple-login-and-register-website/assets/114691344/aac86e68-73d6-4f2e-84ef-240bb1ac55da)
+
+working video:-https://drive.google.com/file/d/1xqK9bI7Gwgyyz32V2llfEcMGK5b7rz3C/view?usp=drive_link
+
